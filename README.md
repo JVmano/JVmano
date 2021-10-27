@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with GoLang structures and projects
 - 📫 How to reach me: Twitter or E-mail
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Neon Genesis Evangelion, Mech Movies and Series, World of Warcraft and some other things (you can ask)
+- ⚡ Fun fact: I love Neon Genesis Evangelion, World of Warcraft and some other things (you can ask)
 
 <div align="center">
   <a href="https://github.com/JVmano">
