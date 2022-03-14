@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Rocket Automatic](https://rocketautomatic.com/)
-- 🌱 I’m currently learning GoLang
+- 🌱 I’m currently learning Smart Contracts & NFT Platforms
 - 👯 I’m looking to collaborate on any automation projects
-- 🤔 I’m looking for help with GoLang structures and projects
+- 🤔 I’m looking for help with Golang basics
 - 📫 How to reach me: Twitter or E-mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Neon Genesis Evangelion, World of Warcraft and some other things (you can ask)
