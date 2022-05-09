@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Rocket Automatic](https://rocketautomatic.com/)
+- 🔭 I’m currently working on [Rocket Automatic](https://www.instagram.com/rocketautomatic/)
 - 🌱 I’m currently learning Smart Contracts & NFT Platforms
 - 👯 I’m looking to collaborate on any automation projects
 - 🤔 I’m looking for help with Golang basics
