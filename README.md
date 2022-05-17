@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Rocket Automatic](https://www.instagram.com/rocketautomatic/)
 - 🌱 I’m currently learning Smart Contracts & NFT Platforms
 - 👯 I’m looking to collaborate on any automation projects
-- 🤔 I’m looking for help with Golang basics
+- 🤔 I’m looking for help with Typescript projects and after that GoLang again
 - 📫 How to reach me: Twitter or E-mail
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Neon Genesis Evangelion, World of Warcraft and some other things (you can ask)
