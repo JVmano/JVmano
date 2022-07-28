@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <img width="1000" src="https://media4.giphy.com/media/sUP52mudix9Zu/giphy.gif?cid=ecf05e476xidzcdcr6fqbedilbc83qiq9f7693q9hvungffl&rid=giphy.gif&ct=g"  />
+  <img width="800" src="https://media4.giphy.com/media/sUP52mudix9Zu/giphy.gif?cid=ecf05e476xidzcdcr6fqbedilbc83qiq9f7693q9hvungffl&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
