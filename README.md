@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at Vixting<br>🌱 I’m currently learning Smart Contracts & Project Architectures<br>👯 I’m looking to collaborate on any automation projects<br>🤔 I’m looking for help with Typescript projects and GoLang basics<br>📫 How to reach me: Linkedin, Gmail or Discord<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love Neon Genesis Evangelion, World of Warcraft and some other things (you can ask)</p>
+<p align="left">🔭 I’m currently working at Vixting (using Bitbucket)<br>🌱 I’m currently learning Golang & Project Architectures<br>👯 I’m looking to collaborate on any Golang projects<br>🤔 I’m looking for help with Golang and microservices<br>📫 How to reach me: Linkedin, Email or Discord<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love Neon Genesis Evangelion, World of Warcraft and some other things (you can ask)</p>
 
 ###
 ##
