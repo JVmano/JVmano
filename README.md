@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at Ambassador as a Integration Engineer<br>🌱 I’m currently learning Golang & Security ISO Certifications<br>👯 I’m looking to collaborate on any Golang projects<br>🤔 I’m looking for help with Golang and microservices<br>📫 How to reach me: LinkedIn, Email or Discord<br>⚡ Fun fact: I love Neon Genesis Evangelion, World of Warcraft and some other things (you can ask)</p>
+```go
+doing := map[string]string{
+    "learning":  "Django and Celery",
+    "contactMe": "Email, Discord or LinkedIn",
+    "workingOn": "Ambassador Software",
+    "pronouns":  "He/Him",
+}
+```
 
 ###
 ##
