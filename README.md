@@ -1,11 +1,11 @@
-<h3 align="left">Salve 👋! My name is João and I'm a Full stack developer</h3>
+<h3 align="left">Salve 👋! My name is João and I'm a Full stack developer/Integration Engineer</h3>
 
 ###
 
 ```go
 doing := map[string]string{
-    "learning":  "Django and Celery",
-    "contactMe": "Email, Discord or LinkedIn",
+    "learning":  "Django and Celery + Data Analysis",
+    "contactMe": "Email or LinkedIn",
     "workingOn": "Ambassador Software",
     "pronouns":  "He/Him",
 }
